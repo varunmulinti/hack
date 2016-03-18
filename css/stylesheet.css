@@ -1,0 +1,14 @@
+#landing{
+  background-image: url("../images/land.jpg");
+   background-size: cover;
+   height: 100vh;
+   color:#fff;
+   border: 1px solid transparent;
+   position: relative;
+}
+#landing .welcome{
+  position: absolute;
+  top: 60%;
+  transform: translatey(-50%);
+font-family: cursive;;
+}
